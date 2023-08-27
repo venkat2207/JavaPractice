@@ -3,13 +3,10 @@ package javaprogramstl;
 public class CharOccurenceCount {
 
 	public static void main(String[] args) {
-		
-		int charCount = charCount("welcome to chennai",'n');
-		
-		
+
+		int charCount = charCount("welcome to chennai", 'n');
+
 		System.out.println(charCount);
-		
-		
 
 	}
 
